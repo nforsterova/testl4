@@ -3,5 +3,5 @@
 Toto je pouze testovací repozitář
 
 Můžu zde zkoušet
-  *pushování
-  *dokumentaci
+  * pushování
+  * dokumentaci
